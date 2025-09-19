@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+
+# Carpeta de compilación
+dist/
+
+# Variables de entorno
+.env
+
+# Logs
+*.log
